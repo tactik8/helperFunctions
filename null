@@ -1,1 +1,1 @@
-{{ $json.unitTests }}
+{{ $json}}
